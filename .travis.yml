@@ -1,5 +1,5 @@
 language: swift
-osx_image: xcode13 
+osx_image: xcode13.1 
 xcode_project: TriangleAppTDD.xcodeproj 
 xcode_scheme: TriangleAppTDD
 xcode_destination: platform=iOS Simulator,OS=15.0,name=iPhone 11 Pro
